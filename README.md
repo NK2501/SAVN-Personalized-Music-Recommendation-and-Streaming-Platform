@@ -39,15 +39,15 @@ The primary goal of the Music Recommendation Project is to enhance user experien
 4. Machine Learning
 5. Tableau
 
-# Work Flow
+# Project Flow
 
 ![Beige Colorful Minimal Flowchart Infographic Graph (1)](https://github.com/NK2501/SAVN-Personalized-Music-Recommendation-and-Streaming-Platform/assets/80163030/f562b3f6-4729-4e96-a79b-69bd15f37879)
 
 
 # Note run both commands on two different instances of terminal
 
-# start kafka zookeper
+# Start kafka zookeper
 ./run-kafka_zookeeper_server.sh -s start
 
-# start kafka server
+# Start kafka server
 ./run-kafka_server.sh -s start
